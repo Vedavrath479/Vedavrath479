@@ -1,20 +1,16 @@
-# Vedavrath-Overview
+# Vedavrath
 # Hi there 👋 -- Welcome to my GitHub page!
 
 ## About Me
-I'm [Your Name], a student at [Your University] and an aspiring [Role].  
-I’m interested in [Data Science | Data Engineering | AI | etc.].  
-I have experience in [skills or internships].  
+I'm Vedavrath Rapelli, a student at the University of Massachusetts Amherst and an aspiring Data Analyst / Data Engineer passionate about Data Science, Business Analytics, and AI-driven solutions.
+
+I have hands-on experience through academic projects and internships, working with tools like Python, SQL, Power BI, and Machine Learning frameworks. I enjoy building data-driven applications, dashboards, and intelligent systems that solve real-world problems.
+
+Beyond academics, I actively work on personal projects in AI for healthcare, business intelligence, and customer analytics, and I enjoy collaborating with cross-functional teams to deliver impactful results.  
 
 ## Experience
-- Incoming Analyst @ [Company]
-- Data Science Intern @ [Company]
-- Research Assistant @ [University]
+- Business Analyst @ [Company]
+- Business Analyst @ [Company]
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR-USERNAME)  
-
-## 📌 Pinned Projects
-- [Project 1](https://github.com/YOUR-USERNAME/project1) → Short description
-- [Project 2](https://github.com/YOUR-USERNAME/project2) → Short description
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/vedavrath-rapelli])  
