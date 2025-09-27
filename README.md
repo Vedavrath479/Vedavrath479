@@ -9,8 +9,8 @@ I have hands-on experience through academic projects and internships, working wi
 Beyond academics, I actively work on personal projects in AI for healthcare, business intelligence, and customer analytics, and I enjoy collaborating with cross-functional teams to deliver impactful results.  
 
 ## Experience
-- Business Analyst @ [Company]
-- Business Analyst @ [Company]
+- Business Analyst @ [UMass]
+- Business Analyst @ [Sezja Pharmaceuticals]
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/vedavrath-rapelli])  
