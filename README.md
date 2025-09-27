@@ -13,4 +13,4 @@ Beyond academics, I actively work on personal projects in AI for healthcare, bus
 - Business Analyst @ [Sezja Pharmaceuticals]
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/vedavrath-rapelli])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vedavrath-rapelli)  
