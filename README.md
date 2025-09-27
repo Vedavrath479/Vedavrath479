@@ -11,6 +11,7 @@ Beyond academics, I actively work on personal projects in AI for healthcare, bus
 ## Experience
 - Business Analyst @ [UMass]
 - Business Analyst @ [Sezja Pharmaceuticals]
-
+- Project Manager Internship @ [Blitz Jobs]
+- Business Analyst Intern @ [Data Minds Analytics]
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vedavrath-rapelli)  
