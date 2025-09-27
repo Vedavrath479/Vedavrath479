@@ -1,5 +1,5 @@
-# Vedavrath
-# Hi there 👋 -- Welcome to my GitHub page!
+# Vedavrath Rapelli
+# Hi there!
 
 ## About Me
 I'm Vedavrath Rapelli, a student at the University of Massachusetts Amherst and an aspiring Data Analyst / Data Engineer passionate about Data Science, Business Analytics, and AI-driven solutions.
