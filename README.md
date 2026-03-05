@@ -9,9 +9,10 @@ I have hands-on experience through academic projects, working with tools like Py
 Beyond academics, I actively work on personal projects in AI for healthcare, business intelligence, and customer analytics, and I enjoy collaborating with cross-functional teams to deliver impactful results.  
 
 ## Experience
-- Business Analyst @ [UMass]
-- Business Analyst @ [Sezja Pharmaceuticals]
-- Project Manager Internship @ [Blitz Jobs]
+- Business Analyst @ [Comunity Dreams Foundation]
 - Business Analyst Intern @ [Data Minds Analytics]
+- Business Analyst @ [Netcast Services]
+- Business Operations Manager @ [Sezja Pharmaceuticals]
+- Project Manager Internship @ [Blitz Jobs]
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vedavrath-rapelli)  
