@@ -11,7 +11,7 @@ Beyond academics, I actively work on personal projects in AI for healthcare, bus
 ## Experience
 - Business Analyst — Community Dreams Foundation
 - Business Analyst Intern — Data Minds Analytics
-- Business Operations Analyst — Sezja Pharmaceuticals
-- Project Manager Intern — Blitz Jobs
+- Business Operations and Analytics — Sezja Pharmaceuticals
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vedavrath-rapelli)  
