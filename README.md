@@ -1,5 +1,5 @@
 # Vedavrath Rapelli
-# Hi there!
+# Hi there! 👋 
 
 ## About Me
 I'm Vedavrath Rapelli, a student at the University of Massachusetts Amherst and an aspiring Business Analyst / Data Engineer passionate about Data Science, Business Analytics, and AI-driven solutions.
